@@ -1,4 +1,5 @@
 # WSO2 ESB Read File Mediator
+![Build status](https://circleci.com/gh/Mystes/wso2-esb-read-file-mediator.svg?style=shield&circle-token=7223394f667851fc9e237b74e92b87fce5129bc3)
 
 ## What is WSO2 ESB?
 [WSO2 ESB](http://wso2.com/products/enterprise-service-bus/) is an open source Enterprise Service Bus that enables interoperability among various heterogeneous systems and business applications.
