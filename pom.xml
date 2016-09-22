@@ -75,6 +75,13 @@
             <url>http://maven.wso2.org/nexus/content/groups/wso2-public/</url>
         </pluginRepository>
     </pluginRepositories>
+    <distributionManagement>
+        <repository>
+            <id>bintray-mystes-maven</id>
+            <name>mystes-maven</name>
+            <url>https://api.bintray.com/maven/mystes/maven/wso2-esb-read-file-mediator/;publish=1</url>
+        </repository>
+    </distributionManagement>
     <dependencies>
         <dependency>
             <groupId>commons-httpclient.wso2</groupId>
